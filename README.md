@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 class="creator-name">👨‍💻 Sobre mi</h1>
-<p>Soy Ricardo Castro, estudiante universitario de Licenciatura en Computación 📖 en la U.C.V. Me interesa el Desarrollo Web 🌐, área sobre la que estoy aprendiendo actualmente y sobre la que pienso trabajar pronto. Tengo conocimientos básicos en los lenguajes HTML 5, CSS 3, JavaScript, C++. Y aparte de estudiar en la universidad también estudio por mi cuenta Desarrollo Web y Desarrollo de Videojuegos 🕹.</p>
+<p>Soy Ricardo Castro, estudiante universitario de Licenciatura en Computación 📖. Me interesa el Desarrollo Web 🌐, área sobre la que estoy aprendiendo actualmente y sobre la que pienso trabajar pronto. Tengo conocimientos básicos en los lenguajes HTML 5, CSS 3, JavaScript, C++. Y aparte de estudiar en la universidad también estudio por mi cuenta Desarrollo Web y Desarrollo de Videojuegos 🕹.</p>
 <div class="creator-info">
    <div class="social-media">
       <!--<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>-->
